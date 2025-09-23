@@ -2,7 +2,7 @@
 import { ImageFile } from "../types";
 
 export const editImageWithPrompt = async (base64ImageData: string, mimeType: string, textPrompt: string): Promise<ImageFile | null> => {
-  const API_KEY = process.env.API_KEY;
+  const API_KEY = vck_8cPYmojTZ8Dba3ofDqKR6anfaR11B1IRQA009PXRsbkTMh8S2b0EdhLr;
   if (!API_KEY) {
     throw new Error("API_KEY environment variable not set");
   }
