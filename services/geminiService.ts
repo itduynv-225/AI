@@ -8,7 +8,7 @@ export const editImageWithPrompt = async (base64ImageData: string, mimeType: str
   }
 
   const model = 'gemini-2.5-flash-image-preview';
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${API_KEY}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${vck_8cPYmojTZ8Dba3ofDqKR6anfaR11B1IRQA009PXRsbkTMh8S2b0EdhLr}`;
 
   // The REST API expects snake_case for request bodies.
   // The SDK for this preview model requires 'responseModalities'. We map it to the REST equivalent.
