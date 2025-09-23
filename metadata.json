@@ -1,0 +1,5 @@
+{
+  "name": "Chỉnh Sửa Ảnh bằng Prompt",
+  "description": "Một ứng dụng web trực quan cho phép người dùng tải lên hình ảnh và chỉnh sửa bằng các câu lệnh văn bản đơn giản, được cung cấp bởi Gemini API.",
+  "requestFramePermissions": []
+}
