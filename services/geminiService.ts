@@ -2,9 +2,9 @@
 import { ImageFile } from "../types";
 
 export const editImageWithPrompt = async (base64ImageData: string, mimeType: string, textPrompt: string): Promise<ImageFile | null> => {
-  const API_KEY = process.env.GEMINI_API_KEY;
+  const API_KEY = process.env.API_KEY;
   if (!API_KEY) {
-    throw new Error("GEMINI_API_KEY environment variable not set. Please add it to your .env.local file.");
+    throw new Error("API_KEY environment variable not set");
   }
 
   const model = 'gemini-2.5-flash-image-preview';
