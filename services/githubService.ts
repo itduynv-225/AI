@@ -125,8 +125,8 @@ export class GitHubPromptsService {
 
 // Singleton instance
 export const githubPromptsService = new GitHubPromptsService({
-  owner: 'octocat', // GitHub's demo user with public repositories
-  repo: 'Hello-World', // Public demo repository
+  owner: 'your-username', // Thay đổi thành username GitHub của bạn
+  repo: 'your-repo', // Thay đổi thành tên repository
   path: 'prompts.json', // Đường dẫn đến file prompts.json
   branch: 'main'
 });
