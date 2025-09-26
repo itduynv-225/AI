@@ -33,8 +33,8 @@ const App: React.FC = () => {
   const [prompts, setPrompts] = useState<Prompt[]>([]);
   const [isLoadingPrompts, setIsLoadingPrompts] = useState(false);
   const [githubConfig, setGitHubConfig] = useState({
-    owner: 'your-username',
-    repo: 'your-repo', 
+    owner: 'octocat',
+    repo: 'Hello-World',
     path: 'prompts.json',
     branch: 'main'
   });
