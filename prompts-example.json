@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Anime Style",
+    "maleText": "Transform him into an anime character with vibrant colors, large expressive eyes, and dynamic hair styling",
+    "femaleText": "Transform her into an anime character with vibrant colors, large expressive eyes, and flowing beautiful hair"
+  },
+  {
+    "label": "Vintage Photo",
+    "maleText": "Convert this to a vintage black and white photograph of him with classic 1950s styling and lighting",
+    "femaleText": "Convert this to a vintage black and white photograph of her with classic 1950s styling and elegant pose"
+  },
+  {
+    "label": "Oil Painting",
+    "maleText": "Turn him into a classical oil painting with rich textures, warm lighting, and Renaissance-style composition",
+    "femaleText": "Turn her into a classical oil painting with rich textures, soft lighting, and Renaissance-style elegance"
+  },
+  {
+    "label": "Cyberpunk",
+    "maleText": "Transform him into a cyberpunk character with neon lights, futuristic clothing, and high-tech accessories",
+    "femaleText": "Transform her into a cyberpunk character with neon lights, futuristic outfit, and cybernetic enhancements"
+  },
+  {
+    "label": "Watercolor",
+    "maleText": "Convert this to a soft watercolor painting of him with flowing colors and artistic brush strokes",
+    "femaleText": "Convert this to a soft watercolor painting of her with delicate colors and dreamy artistic effects"
+  },
+  {
+    "label": "Cartoon",
+    "maleText": "Turn him into a fun cartoon character with exaggerated features and bright, cheerful colors",
+    "femaleText": "Turn her into a fun cartoon character with cute features and vibrant, playful colors"
+  },
+  {
+    "label": "Superhero",
+    "maleText": "Transform him into a powerful superhero with a heroic costume, cape, and confident pose",
+    "femaleText": "Transform her into a powerful superhero with an elegant costume, flowing cape, and strong stance"
+  },
+  {
+    "label": "Medieval",
+    "maleText": "Turn him into a medieval knight with armor, sword, and castle background",
+    "femaleText": "Turn her into a medieval princess with elegant dress, crown, and castle setting"
+  },
+  {
+    "label": "Steampunk",
+    "maleText": "Transform him into a steampunk character with brass goggles, mechanical accessories, and Victorian clothing",
+    "femaleText": "Transform her into a steampunk character with elegant goggles, clockwork jewelry, and Victorian dress"
+  },
+  {
+    "label": "Space Explorer",
+    "maleText": "Turn him into a space explorer with futuristic spacesuit, helmet, and cosmic background",
+    "femaleText": "Turn her into a space explorer with sleek spacesuit, helmet, and starry galaxy background"
+  },
+  {
+    "label": "Pirate",
+    "maleText": "Transform him into a swashbuckling pirate with hat, sword, and ship background",
+    "femaleText": "Transform her into an adventurous pirate captain with elegant hat, sword, and ocean setting"
+  },
+  {
+    "label": "Zombie",
+    "maleText": "Turn him into a zombie with torn clothes, pale skin, and spooky atmosphere",
+    "femaleText": "Turn her into a zombie with tattered dress, pale complexion, and haunting appearance"
+  }
+]
